@@ -1,9 +1,9 @@
 {
     "online": true,
     "gradiente": {
-      "background": "#f857a6",
-      "background-webkit": "linear-gradient(to right, #f857a6, #ff5858)",
-      "background-linear": "linear-gradient(to right, #f857a6, #ff5858)"
+      "background": "#000000",
+      "background-webkit": "linear-gradient(to right, #000000, #434343)",
+      "background-linear": "linear-gradient(to right, #000000, #434343)"
     }
   }
   
