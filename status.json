@@ -1,9 +1,4 @@
 {
-    "online": true,
-    "gradiente": {
-      "background": "#649173",
-      "background-webkit": "linear-gradient(to right, #649173, #DBD5A4)",
-      "background-linear": "linear-gradient(to right, #649173, #DBD5A4)"
-    }
-  }
-  
+  "status": "True",
+  "mensagemError": "Nenhum erro encontrado."
+}
